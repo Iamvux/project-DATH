@@ -1,0 +1,14 @@
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.csproj.AssemblyReference.cache
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.csproj.SuggestedBindingRedirects.cache
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.Properties.Resources.resources
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.csproj.GenerateResource.cache
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.csproj.CoreCompileInputs.cache
+D:\c#\DoanquanliXe\DoanquanliXe\bin\Debug\DoanquanliXe.exe.config
+D:\c#\DoanquanliXe\DoanquanliXe\bin\Debug\DoanquanliXe.exe
+D:\c#\DoanquanliXe\DoanquanliXe\bin\Debug\DoanquanliXe.pdb
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.exe
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.pdb
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.FMenu.resources
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.FThongTinNCC.resources
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.FThongTinXe.resources
+D:\c#\DoanquanliXe\DoanquanliXe\obj\Debug\DoanquanliXe.FDangNhap.resources
